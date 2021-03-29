@@ -9,7 +9,7 @@ matplotlib==3.0.2
 numpy==1.15.4
 pip==18.1
 pygame==1.9.4
-Pygments==2.3.1
+Pygments==2.7.4
 PyOpenGL==3.1.0
 pyparsing==2.3.0
 pypiwin32==223
