@@ -18,5 +18,5 @@ pywin32==224
 requests==2.21.0
 setuptools==40.6.3
 six==1.12.0
-urllib3==1.24.1
+urllib3==1.26.5
 wheel==0.32.3
